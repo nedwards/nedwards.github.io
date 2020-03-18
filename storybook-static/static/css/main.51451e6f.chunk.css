@@ -1,0 +1,30 @@
+#root .sb-no-iframe {
+  display: none;
+}
+#root .sb-brand-switcher {
+  margin: 1rem;
+}
+
+.sbdocs .sb-brand-switcher {
+  border-bottom: 1px solid #e5e5e5;
+  margin: -35px -20px 20px -25px;
+  padding: 15px 15px 10px;
+}
+
+.sb-brand-switcher .c-select {
+  border-color: #E5E5E5;
+  color: #666;
+  max-width: 12rem;
+}
+
+.sb-brand-switcher .c-select:after {
+  border: 3px solid #666;
+  border-right: 0;
+  border-top: 0;
+}
+
+.sb-brand-switcher select:hover {
+  background-color: #E5E5E5;
+}
+
+/*# sourceMappingURL=main.51451e6f.chunk.css.map*/
